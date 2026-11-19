@@ -1,0 +1,3 @@
+Python é uma linguagem versátil.
+Persistir dados é guardar informações para usar depois.
+Arquivos txt são uma forma simples de persistência.

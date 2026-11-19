@@ -1,0 +1,25 @@
+O contrato é um acordo de vontades entre duas ou mais partes que cria, modifica ou extingue direitos e obrigações.
+Para que o contrato seja válido, a lei exige agente capaz, objeto lícito, possível e determinado, e forma prescrita ou não proibida.
+A boa-fé objetiva orienta a conduta das partes desde as negociações preliminares até a execução e a extinção do contrato.
+O inadimplemento ocorre quando o devedor deixa de cumprir a obrigação no tempo, lugar e forma convencionados.
+Nesse caso, o credor pode exigir o cumprimento forçado ou a resolução do contrato, além de perdas e danos.
+A cláusula penal é uma obrigação acessória que estipula uma multa para o caso de descumprimento total ou parcial.
+A prescrição extingue a pretensão do titular de um direito que permaneceu inerte durante o prazo previsto em lei.
+Já a decadência atinge o próprio direito potestativo quando ele não é exercido dentro do prazo legal.
+O processo civil é o instrumento pelo qual o Estado exerce a jurisdição e resolve os conflitos de interesses.
+A petição inicial deve indicar o juízo, as partes, os fatos, os fundamentos jurídicos, o pedido e o valor da causa.
+Após a citação, o réu pode apresentar contestação, alegando toda a matéria de defesa que tiver contra o autor.
+A sentença é o pronunciamento do juiz que põe fim à fase de conhecimento do procedimento comum.
+Contra a sentença cabe apelação, recurso que devolve ao tribunal o conhecimento da matéria impugnada.
+A coisa julgada torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
+O princípio do contraditório garante às partes o direito de serem ouvidas e de influenciarem a decisão judicial.
+A ampla defesa assegura ao acusado todos os meios e recursos inerentes à proteção de seus interesses.
+A responsabilidade civil surge do dever de reparar o dano causado a outrem por ato ilícito.
+São elementos da responsabilidade civil a conduta, o dano, o nexo causal e, em regra, a culpa do agente.
+Na responsabilidade objetiva, a obrigação de indenizar independe de culpa, bastando o nexo entre a atividade e o dano.
+O dano moral corresponde à lesão a direitos da personalidade, como a honra, a imagem e a intimidade.
+A propriedade confere ao seu titular a faculdade de usar, gozar e dispor da coisa, e de reavê-la de quem injustamente a possua.
+A posse é o exercício de fato de algum dos poderes inerentes à propriedade.
+A usucapião é o modo originário de aquisição da propriedade pela posse prolongada, mansa e pacífica.
+O testamento é o ato pelo qual uma pessoa dispõe de seus bens para depois de sua morte.
+A herança transmite-se, desde logo, aos herdeiros legítimos e testamentários no momento da abertura da sucessão.
